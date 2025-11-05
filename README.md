@@ -24,7 +24,7 @@ This project analyzes Airbnb listings in New York City to uncover pricing trends
 - %matplotlib inline
 
 # 📊 Key Analysis Performed
-- Univariate Analysis
+### Univariate Analysis
 
  Price Distribution (sns.histplot, sns.boxplot)
 
