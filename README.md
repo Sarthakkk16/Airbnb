@@ -1,5 +1,5 @@
 ![](https://github.com/Sarthakkk16/Airbnb/blob/main/Airbnb-Logo-Contest-830x400.png)
-# Airbnb
+# *Airbnb*
 This project analyzes Airbnb listings in New York City to uncover pricing trends, host behavior, availability patterns, and geographical insights. Using Python’s data analysis and visualization libraries, we explore how different factors such as location, room type, and number of reviews influence rental prices.
 
 # 🧠 Objectives
@@ -26,9 +26,9 @@ This project analyzes Airbnb listings in New York City to uncover pricing trends
 # 📊 Key Analysis Performed
 - Univariate Analysis
 
--- Price Distribution (sns.histplot, sns.boxplot)
+ Price Distribution (sns.histplot, sns.boxplot)
 
--- Number of Reviews and Availability across listings
+ Number of Reviews and Availability across listings
 
 - Bivariate Analysis
 
