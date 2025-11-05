@@ -22,3 +22,24 @@ This project analyzes Airbnb listings in New York City to uncover pricing trends
 - import warnings
  warnings.filterwarnings('ignore')
 - %matplotlib inline
+
+# 📊 Key Analysis Performed
+- Univariate Analysis
+
+Price Distribution (sns.histplot, sns.boxplot)
+
+Number of Reviews and Availability across listings
+
+- Bivariate Analysis
+
+Relationship between price and reviews
+
+Price vs. neighbourhood_group and room_type
+
+Correlation heatmap between numerical variables
+
+- Geographical Analysis
+
+Mapped latitude vs. longitude by room type to visualize Airbnb density
+
+Found that Manhattan and Brooklyn dominate listings
