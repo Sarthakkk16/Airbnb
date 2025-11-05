@@ -2,6 +2,18 @@
 # *Airbnb*
 This project analyzes Airbnb listings in New York City to uncover pricing trends, host behavior, availability patterns, and geographical insights. Using Python’s data analysis and visualization libraries, we explore how different factors such as location, room type, and number of reviews influence rental prices.
 
+## Dataset
+The dataset contains **20,765 entries and 22 features**, including:
+- **id**: Unique identifier for each listing  
+- **name**: Title of the Airbnb listing  
+- **host_name**: Name of the host  
+- **neighborhood_group**: Group (borough) where the listing is located  
+- **latitude/longitude**: Geolocation of listings  
+- **price**: Nightly rental price  
+- **room_type**: Type of accommodation (e.g., entire home, private room)  
+- **reviews_per_month**: Average monthly reviews for the listing  
+- **availability_365**: Number of available days in the year
+- 
 # 🧠 Objectives
 
 - Perform data cleaning and handle missing/duplicate values
