@@ -14,7 +14,7 @@ This project analyzes Airbnb listings in New York City to uncover pricing trends
 
 - Identify neighborhoods and room types with highest average prices
 
-# Libraries
+#  📑 Libraries
 - import pandas as pd
 - import numpy as np
 - import matplotlib.pyplot as plt
