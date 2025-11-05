@@ -5,13 +5,9 @@ This project analyzes Airbnb listings in New York City to uncover pricing trends
 # 🧠 Objectives
 
 - Perform data cleaning and handle missing/duplicate values
-
 - Conduct univariate and bivariate analysis
-
 - Visualize relationships between price, reviews, and availability
-
 - Explore geographical distribution of listings
-
 - Identify neighborhoods and room types with highest average prices
 
 #  📑 Libraries
@@ -32,12 +28,9 @@ This project analyzes Airbnb listings in New York City to uncover pricing trends
 ### Bivariate Analysis
 
 - Relationship between price and reviews
-
 - Price vs. neighbourhood_group and room_type
-
 - Correlation heatmap between numerical variables
 ### Geographical Analysis
 
 - Mapped latitude vs. longitude by room type to visualize Airbnb density
- 
 - Found that Manhattan and Brooklyn dominate listings
