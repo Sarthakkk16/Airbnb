@@ -26,9 +26,9 @@ This project analyzes Airbnb listings in New York City to uncover pricing trends
 # 📊 Key Analysis Performed
 - Univariate Analysis
 
-Price Distribution (sns.histplot, sns.boxplot)
+-- Price Distribution (sns.histplot, sns.boxplot)
 
-Number of Reviews and Availability across listings
+-- Number of Reviews and Availability across listings
 
 - Bivariate Analysis
 
