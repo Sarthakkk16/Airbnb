@@ -26,19 +26,18 @@ This project analyzes Airbnb listings in New York City to uncover pricing trends
 # 📊 Key Analysis Performed
 ### Univariate Analysis
 
--Price Distribution (sns.histplot, sns.boxplot)
-
- -Number of Reviews and Availability across listings
+- Price Distribution (sns.histplot, sns.boxplot)
+- Number of Reviews and Availability across listings
 
 ### Bivariate Analysis
 
--Relationship between price and reviews
+- Relationship between price and reviews
 
--Price vs. neighbourhood_group and room_type
+- Price vs. neighbourhood_group and room_type
 
--Correlation heatmap between numerical variables
+- Correlation heatmap between numerical variables
 ### Geographical Analysis
 
--Mapped latitude vs. longitude by room type to visualize Airbnb density
-
--Found that Manhattan and Brooklyn dominate listings
+- Mapped latitude vs. longitude by room type to visualize Airbnb density
+ 
+- Found that Manhattan and Brooklyn dominate listings
